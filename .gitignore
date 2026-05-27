@@ -1,0 +1,40 @@
+# macOS / editors
+.DS_Store
+.vs/
+.vscode/
+
+# Build outputs / binaries
+x64/
+build/
+dist/
+target/
+*.exe
+*.pdb
+*.o
+*.obj
+*.out
+*.class
+
+# Local temp files
+tmp/
+tempCodeRunnerFile.cpp
+
+# Local compiled executables from these exercises
+LinkedList
+QueueByArray
+QueueByArrayDangThang
+QueueByArrayDangVong
+QueueByLinkedList
+StackByArray
+StackByLinkedList
+demodequy
+dequyInArray
+dequyarrray
+Bai1
+BaiTrauanco
+FilmManager
+PointerMang1Chieu
+PointerMang2Chieu
+baitapnangcao
+gacho
+SoNghichDao
